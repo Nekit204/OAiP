@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\User\Desktop\учеба\Оап\Project6\Project6\Source.cpp(7,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\учеба\Оап\Project6\Project6\Source.cpp(10,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\учеба\Оап\Project6\Project6\Source.cpp(23,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\учеба\Оап\Project6\Project6\Source.cpp(32,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\учеба\Оап\Project6\Project6\Source.cpp(50,16): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\учеба\Оап\Project6\Project6\Source.cpp(63,16): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\учеба\Оап\Project6\Project6\Source.cpp(76,16): warning C4018: <: несоответствие типов со знаком и без знака
+  Project6.vcxproj -> C:\Users\User\Desktop\учеба\Оап\Project6\Debug\Project6.exe
